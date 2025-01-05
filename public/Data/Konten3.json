@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "name": "Batam",
+      "news": "lorem",
+      "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/640px-Jakarta_Skyline_Part_2.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Surabaya",
+      "news": "lorem",
+      "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/640px-Jakarta_Skyline_Part_2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Bandung",
+      "news": "lorem",
+      "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/640px-Jakarta_Skyline_Part_2.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Bandung",
+      "news": "lorem",
+      "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/640px-Jakarta_Skyline_Part_2.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Bandung",
+      "news": "lorem",
+      "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/640px-Jakarta_Skyline_Part_2.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Bandung",
+      "news": "lorem",
+      "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/640px-Jakarta_Skyline_Part_2.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Bandung",
+      "news": "lorem",
+      "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/640px-Jakarta_Skyline_Part_2.jpg"
+    }
+  ]
+  
