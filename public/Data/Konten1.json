@@ -1,62 +1,62 @@
 [
   {
-      "id": 1,
-      "name": "Batam",
-      "news": "lorem",
-      "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/640px-Jakarta_Skyline_Part_2.jpg"
+    "id": 1,
+    "name": "Batam",
+    "news": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia quae dolorum excepturi sapiente rem consequatur tempora, ",
+    "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/640px-Jakarta_Skyline_Part_2.jpg"
   },
   {
-      "id": 2,
-      "name": "Surabaya",
-      "news": "lorem",
-      "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/640px-Jakarta_Skyline_Part_2.jpg"
+    "id": 2,
+    "name": "Surabaya",
+    "news": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia quae dolorum excepturi sapiente rem consequatur tempora, ",
+    "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/640px-Jakarta_Skyline_Part_2.jpg"
   },
   {
-      "id": 3,
-      "name": "Jakarta",
-      "news": "lorem",
-      "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/640px-Jakarta_Skyline_Part_2.jpg"
+    "id": 3,
+    "name": "Jakarta",
+    "news": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia quae dolorum excepturi sapiente rem consequatur tempora, ",
+    "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/640px-Jakarta_Skyline_Part_2.jpg"
   },
   {
-      "id": 4,
-      "name": "Bandung",
-      "news": "lorem",
-      "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/640px-Jakarta_Skyline_Part_2.jpg"
+    "id": 4,
+    "name": "Bandung",
+    "news": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia quae dolorum excepturi sapiente rem consequatur tempora, ",
+    "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/640px-Jakarta_Skyline_Part_2.jpg"
   },
   {
-      "id": 5,
-      "name": "Yogyakarta",
-      "news": "lorem",
-      "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/640px-Jakarta_Skyline_Part_2.jpg"
+    "id": 5,
+    "name": "Yogyakarta",
+    "news": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia quae dolorum excepturi sapiente rem consequatur tempora, ",
+    "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/640px-Jakarta_Skyline_Part_2.jpg"
   },
   {
-      "id": 6,
-      "name": "Medan",
-      "news": "lorem",
-      "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/640px-Jakarta_Skyline_Part_2.jpg"
+    "id": 6,
+    "name": "Medan",
+    "news": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia quae dolorum excepturi sapiente rem consequatur tempora, ",
+    "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/640px-Jakarta_Skyline_Part_2.jpg"
   },
   {
-      "id": 7,
-      "name": "Makassar",
-      "news": "lorem",
-      "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/640px-Jakarta_Skyline_Part_2.jpg"
+    "id": 7,
+    "name": "Makassar",
+    "news": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia quae dolorum excepturi sapiente rem consequatur tempora, ",
+    "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/640px-Jakarta_Skyline_Part_2.jpg"
   },
   {
-      "id": 8,
-      "name": "Semarang",
-      "news": "lorem",
-      "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/640px-Jakarta_Skyline_Part_2.jpg"
+    "id": 8,
+    "name": "Semarang",
+    "news": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia quae dolorum excepturi sapiente rem consequatur tempora, ",
+    "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/640px-Jakarta_Skyline_Part_2.jpg"
   },
   {
-      "id": 9,
-      "name": "Palembang",
-      "news": "lorem",
-      "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/640px-Jakarta_Skyline_Part_2.jpg"
+    "id": 9,
+    "name": "Palembang",
+    "news": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia quae dolorum excepturi sapiente rem consequatur tempora, ",
+    "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/640px-Jakarta_Skyline_Part_2.jpg"
   },
   {
-      "id": 10,
-      "name": "Bali",
-      "news": "lorem",
-      "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/640px-Jakarta_Skyline_Part_2.jpg"
+    "id": 10,
+    "name": "Bali",
+    "news": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia quae dolorum excepturi sapiente rem consequatur tempora, ",
+    "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/640px-Jakarta_Skyline_Part_2.jpg"
   }
 ]
