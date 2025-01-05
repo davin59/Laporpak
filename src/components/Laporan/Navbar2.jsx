@@ -242,7 +242,7 @@ const ReportContainer = ({ reports, onUpdate }) => {
           <p className="font-bold text-lg">
             <strong>Nama:</strong> {report.nama}
           </p>
-          <p className="text-gray-600">
+          <p>
             <strong>Email:</strong> {report.email}
           </p>
           {report.foto && (
@@ -255,7 +255,7 @@ const ReportContainer = ({ reports, onUpdate }) => {
               />
             </div>
           )}
-          <p className="text-gray-700">
+          <p>
             <strong>Komentar:</strong> {report.komentar}
           </p>
         </div>
