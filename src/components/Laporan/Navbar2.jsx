@@ -140,7 +140,7 @@ const ReportForm = ({ show, onClose, onSubmit }) => {
   const [nama, setNama] = useState("");
   const [email, setEmail] = useState("");
   const [foto, setFoto] = useState(null);
-  const [komentar, setKomentar] = useState("");
+  const [komentar, setKomentar] = useState(""); // Masukan wilayah dan kecamatan disini
 
   const handleSubmit = (e) => {
     e.preventDefault();

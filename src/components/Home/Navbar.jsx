@@ -11,14 +11,8 @@ const Navbar = () => {
       <div className="text-3xl font-bold text-gray-800">Laporpak.</div>
       {/* Navigation Links for Large Screens */}
       <div className="hidden md:flex space-x-6">
-        <a href="#services" className="text-gray-600 hover:text-blue-600">
-          Service
-        </a>
-        <a href="#news" className="text-gray-600 hover:text-blue-600">
-          News
-        </a>
-        <a href="#about" className="text-gray-600 hover:text-blue-600">
-          About
+        <a href="#contac" className="text-gray-600 hover:text-blue-600">
+          Customer Servis
         </a>
       </div>
       {/* Hamburger Menu Button for Medium and Smaller Screens */}
@@ -40,17 +34,8 @@ const Navbar = () => {
       {/* Dropdown Menu for Hamburger */}
       {isMenuOpen && (
         <div className="absolute top-16 right-6 bg-white shadow-lg rounded-md p-4 space-y-4 md:hidden z-50">
-          <a
-            href="#services"
-            className="block text-gray-600 hover:text-blue-600"
-          >
-            Service
-          </a>
-          <a href="#news" className="block text-gray-600 hover:text-blue-600">
-            News
-          </a>
-          <a href="#about" className="block text-gray-600 hover:text-blue-600">
-            About
+          <a href="#contac" className="text-gray-600 hover:text-blue-600">
+            Customer Servis
           </a>
           <button
             className="w-full px-4 py-2 text-white bg-blue-600 rounded hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2"

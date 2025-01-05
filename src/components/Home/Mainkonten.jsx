@@ -1,82 +1,143 @@
-import React, { useEffect, useState } from 'react';
+import React, { useEffect, useState, useRef } from "react";
+import SearchBar from "./SearchBar";
 
-const Konten1 = () => {
-  const [data, setData] = useState([]);
-  const [currentIndex, setCurrentIndex] = useState(0);
+const Mainkonten = () => {
+  const [data1, setData1] = useState([]);
+  const [data2, setData2] = useState([]);
+  const [data3, setData3] = useState([]);
+  const [searchTerm, setSearchTerm] = useState("");
+  const sliderRef1 = useRef(null);
+  const sliderRef2 = useRef(null);
+  const sliderRef3 = useRef(null);
 
+  // Fetch data from Konten2.json
   useEffect(() => {
-    fetch('/Data/Konten1.json')
-      .then((response) => {
-        if (!response.ok) {
-          throw new Error('Failed to fetch data');
-        }
-        return response.json();
-      })
-      .then((json) => setData(json))
-      .catch((error) => console.error('Error:', error));
+    fetch("/Data/Konten1.json")
+      .then((response) => response.json())
+      .then((json) => setData1(json))
+      .catch((error) => console.error("Error fetching Konten2:", error));
   }, []);
 
-  // Fungsi untuk navigasi ke container berikutnya (loop kembali ke awal setelah data terakhir)
-  const handleNext = () => {
-    if (currentIndex < data.length - 1) {
-      setCurrentIndex(currentIndex + 1);
-    } else {
-      setCurrentIndex(0); // Kembali ke data pertama
-    }
-  };
+  // Fetch data from Konten3.json
+  useEffect(() => {
+    fetch("/Data/Konten2.json")
+      .then((response) => response.json())
+      .then((json) => setData2(json))
+      .catch((error) => console.error("Error fetching Konten3:", error));
+  }, []);
 
-  // Fungsi untuk navigasi ke container sebelumnya (loop kembali ke data terakhir setelah data pertama)
-  const handlePrev = () => {
-    if (currentIndex > 0) {
-      setCurrentIndex(currentIndex - 1);
-    } else {
-      setCurrentIndex(data.length - 1); // Kembali ke data terakhir
+  // Fetch data from Konten4.json
+  useEffect(() => {
+    fetch("/Data/Konten3.json")
+      .then((response) => response.json())
+      .then((json) => setData3(json))
+      .catch((error) => console.error("Error fetching Konten4:", error));
+  }, []);
+
+  // Filter data based on search term
+  const filteredData1 = data1.filter((item) =>
+    item.name.toLowerCase().includes(searchTerm.toLowerCase())
+  );
+
+  const filteredData2 = data2.filter((item) =>
+    item.name.toLowerCase().includes(searchTerm.toLowerCase())
+  );
+
+  const filteredData3 = data3.filter((item) =>
+    item.name.toLowerCase().includes(searchTerm.toLowerCase())
+  );
+
+  // Scroll function for sliders
+  const scrollSlider = (ref, direction) => {
+    if (ref.current) {
+      const scrollAmount = direction === "left" ? -300 : 300;
+      ref.current.scrollBy({ left: scrollAmount, behavior: "smooth" });
     }
   };
 
   return (
-    <div className="relative w-full h-screen bg-gray-100">
-      {/* Container di bagian atas */}
-      <div className="w-full h-[40%] bg-white shadow-lg rounded-lg p-6 flex items-center justify-between relative">
-        {data.length > 0 && (
-          <div className="flex items-center justify-between w-full">
-            {/* Gambar di sebelah kiri */}
-            <div className="w-1/2 pr-4">
+    <div className="relative p-6">
+      <SearchBar searchTerm={searchTerm} setSearchTerm={setSearchTerm} />
+
+      {/* Slider 1 - Konten1 */}
+      <h2 className="text-2xl font-bold mb-4">Berita Hari Ini</h2>
+      <div
+        ref={sliderRef1}
+        className="flex overflow-x-auto gap-6 scrollbar-hide"
+      >
+        {filteredData1.length > 0 ? (
+          filteredData1.map((item) => (
+            <div
+              key={item.id}
+              className="bg-white shadow-lg rounded-lg p-6 border border-gray-200 min-w-[300px]"
+            >
               <img
-                src={data[currentIndex].image}
-                alt={data[currentIndex].name}
-                className="w-full h-auto object-contain rounded-lg"
+                src={item.pict}
+                alt={item.name}
+                className="w-full h-48 object-cover rounded-lg mb-4"
               />
+              <h2 className="text-xl font-bold mb-2">{item.name}</h2>
+              <p className="text-gray-700">{item.news}</p>
             </div>
-
-            {/* Teks di sebelah kanan */}
-            <div className="w-1/2 pl-4">
-              <h2 className="text-2xl font-bold mb-4">{data[currentIndex].name}</h2>
-              <p className="text-gray-700">Populasi: {data[currentIndex].population}</p>
-            </div>
-          </div>
+          ))
+        ) : (
+          <div className="text-gray-500 p-6">TIDAK ADA BERITA YANG ANDA CARI</div>
         )}
+      </div>
 
-        {/* Tombol Navigasi Kiri */}
-        <button
-          onClick={handlePrev}
-          className="absolute left-2 top-1/2 transform -translate-y-1/2 bg-gray-300 hover:bg-gray-400 p-3 rounded-full"
-          disabled={data.length === 0}
-        >
-          ◀
-        </button>
+      {/* Slider 2 - Konten2 */}
+      <h2 className="text-2xl font-bold mt-12 mb-4">Berita Kemaren</h2>
+      <div
+        ref={sliderRef2}
+        className="flex overflow-x-auto gap-6 scrollbar-hide"
+      >
+        {filteredData2.length > 0 ? (
+          filteredData2.map((item) => (
+            <div
+              key={item.id}
+              className="bg-white shadow-lg rounded-lg p-6 border border-gray-200 min-w-[300px]"
+            >
+              <img
+                src={item.pict}
+                alt={item.name}
+                className="w-full h-48 object-cover rounded-lg mb-4"
+              />
+              <h2 className="text-xl font-bold mb-2">{item.name}</h2>
+              <p className="text-gray-700"> {item.news}</p>
+            </div>
+          ))
+        ) : (
+          <div className="text-gray-500 p-6">TIDAK ADA BERITA YANG ANDA CARI</div>
+        )}
+      </div>
 
-        {/* Tombol Navigasi Kanan */}
-        <button
-          onClick={handleNext}
-          className="absolute right-2 top-1/2 transform -translate-y-1/2 bg-gray-300 hover:bg-gray-400 p-3 rounded-full"
-          disabled={data.length === 0}
-        >
-          ▶
-        </button>
+      {/* Slider 3 - Konten3 */}
+      <h2 className="text-2xl font-bold mt-12 mb-4">Berita Lampau</h2>
+      <div
+        ref={sliderRef3}
+        className="flex overflow-x-auto gap-6 scrollbar-hide"
+      >
+        {filteredData3.length > 0 ? (
+          filteredData3.map((item) => (
+            <div
+              key={item.id}
+              className="bg-white shadow-lg rounded-lg p-6 border border-gray-200 min-w-[300px]"
+            >
+              <img
+                src={item.pict}
+                alt={item.name}
+                className="w-full h-48 object-cover rounded-lg mb-4"
+              />
+              <h2 className="text-xl font-bold mb-2">{item.name}</h2>
+              <p className="text-gray-700">{item.news}</p>
+            </div>
+          ))
+        ) : (
+          <div className="text-gray-500 p-6">TIDAK ADA BERITA YANG ANDA CARI</div>
+        )}
       </div>
     </div>
   );
 };
 
-export default Konten1;
+export default Mainkonten;
