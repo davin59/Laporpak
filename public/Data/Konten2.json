@@ -1,44 +1,62 @@
 [
   {
     "id": 1,
-    "name": "Jakarta",
-    "news": "lorem",
-    "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/640px-Jakarta_Skyline_Part_2.jpg"
+    "name": "Aceh",
+    "news": "Gempa berkekuatan 5,6 SR mengguncang wilayah Aceh pagi ini.",
+    "pict": "https://asset-2.tstatic.net/batam/foto/bank/images/batamnyaaaa-mana.jpg"
   },
   {
     "id": 2,
-    "name": "Surabaya",
-    "news": "lorem",
-    "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/640px-Jakarta_Skyline_Part_2.jpg"
+    "name": "Pontianak",
+    "news": "Festival Cap Go Meh di Pontianak akan digelar minggu depan.",
+    "pict": "https://asset-2.tstatic.net/batam/foto/bank/images/batamnyaaaa-mana.jpg"
   },
   {
     "id": 3,
-    "name": "Bandung",
-    "news": "lorem",
-    "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/640px-Jakarta_Skyline_Part_2.jpg"
+    "name": "Manado",
+    "news": "Kawasan Bunaken di Manado kembali dibuka untuk wisatawan lokal dan internasional.",
+    "pict": "https://asset-2.tstatic.net/batam/foto/bank/images/batamnyaaaa-mana.jpg"
   },
   {
     "id": 4,
-    "name": "Bandung",
-    "news": "lorem",
-    "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/640px-Jakarta_Skyline_Part_2.jpg"
+    "name": "Padang",
+    "news": "Padang mengadakan lomba perahu tradisional di Danau Singkarak.",
+    "pict": "https://asset-2.tstatic.net/batam/foto/bank/images/batamnyaaaa-mana.jpg"
   },
   {
     "id": 5,
-    "name": "Bandung",
-    "news": "lorem",
-    "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/640px-Jakarta_Skyline_Part_2.jpg"
+    "name": "Balikpapan",
+    "news": "Balikpapan menjadi tuan rumah konferensi energi terbarukan 2025.",
+    "pict": "https://asset-2.tstatic.net/batam/foto/bank/images/batamnyaaaa-mana.jpg"
   },
   {
     "id": 6,
-    "name": "Bandung",
-    "news": "lorem",
-    "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/640px-Jakarta_Skyline_Part_2.jpg"
+    "name": "Malang",
+    "news": "Kebun apel di Malang mencatat rekor panen terbaik dalam lima tahun terakhir.",
+    "pict": "https://asset-2.tstatic.net/batam/foto/bank/images/batamnyaaaa-mana.jpg"
   },
   {
     "id": 7,
-    "name": "Bandung",
-    "news": "lorem",
-    "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/640px-Jakarta_Skyline_Part_2.jpg"
+    "name": "Pekanbaru",
+    "news": "Pekanbaru memperketat protokol kesehatan di semua tempat wisata.",
+    "pict": "https://asset-2.tstatic.net/batam/foto/bank/images/batamnyaaaa-mana.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Banjarmasin",
+    "news": "Pasar terapung di Banjarmasin menarik perhatian wisatawan asing.",
+    "pict": "https://asset-2.tstatic.net/batam/foto/bank/images/batamnyaaaa-mana.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Jayapura",
+    "news": "Jayapura akan menjadi tuan rumah PON 2028.",
+    "pict": "https://asset-2.tstatic.net/batam/foto/bank/images/batamnyaaaa-mana.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Kupang",
+    "news": "Kupang mendapatkan penghargaan kota terbersih di Nusa Tenggara Timur.",
+    "pict": "https://asset-2.tstatic.net/batam/foto/bank/images/batamnyaaaa-mana.jpg"
   }
 ]
