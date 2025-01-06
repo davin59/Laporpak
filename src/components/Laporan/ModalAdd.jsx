@@ -200,7 +200,7 @@ export default function ModalAdd({ selectedReport, setSelectedReport }) {
             </div>
 
             <div className="modal-action">
-              <label htmlFor="my_modal_7" className="btn btn-secondary">
+              <label htmlFor="my_modal_7" className="btn bg-red-500 text-white">
                 Batal
               </label>
               <button type="submit" className="btn btn-primary">
