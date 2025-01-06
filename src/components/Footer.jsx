@@ -1,7 +1,7 @@
 // Footer.js
-import React from 'react';
+import React from "react";
 
-const Footer = ({ className}) => {
+const Footer = ({ className }) => {
   return (
     <footer className={`bg-white-500 text-black py-8 ${className}`}>
       <div className="max-w-screen-xl mx-auto px-4 sm:px-6">
@@ -20,28 +20,41 @@ const Footer = ({ className}) => {
           <div>
             <h3 className="text-lg font-semibold mb-4">Quick Links</h3>
             <ul>
-              <li><a href="#" className="hover:text-blue-600">About Us</a></li>
-              <li><a href="#" className="hover:text-blue-600">Privacy Policy</a></li>
-              <li><a href="#" className="hover:text-blue-600">Terms of Service</a></li>
-              <li><a href="#" className="hover:text-blue-600">FAQ</a></li>
+              <li>
+                <a href="#" className="hover:text-blue-600">
+                  About Us
+                </a>
+              </li>
+              <li>
+                <a href="#" className="hover:text-blue-600">
+                  Privacy Policy
+                </a>
+              </li>
+              <li>
+                <a href="#" className="hover:text-blue-600">
+                  Terms of Service
+                </a>
+              </li>
+              <li>
+                <a href="#" className="hover:text-blue-600">
+                  FAQ
+                </a>
+              </li>
             </ul>
           </div>
 
           {/* Column 3: Social Media */}
           <div>
             <h3 className="text-lg font-semibold mb-4">Follow Us</h3>
-            <div className="flex space-x-4">
+            <div className="flex flex-col space-y-1">
               <a href="#" className="hover:text-blue-600">
-                <i className="fab fa-facebook-f"></i> {/* You can use icons from FontAwesome */}
+                <i className="fab fa-facebook-f"></i> Facebook
               </a>
               <a href="#" className="hover:text-blue-600">
-                <i className="fab fa-twitter"></i>
+                <i className="fab fa-twitter"></i> Twitter
               </a>
               <a href="#" className="hover:text-blue-600">
-                <i className="fab fa-instagram"></i>
-              </a>
-              <a href="#" className="hover:text-blue-600">
-                <i className="fab fa-linkedin-in"></i>
+                <i className="fab fa-instagram"></i> Instagram
               </a>
             </div>
           </div>
