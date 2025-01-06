@@ -11,9 +11,6 @@ const Navbar = () => {
       <div className="text-3xl font-bold text-gray-800">Laporpak.</div>
       {/* Navigation Links for Large Screens */}
       <div className="hidden md:flex space-x-6">
-        <a href="#contac" className="text-gray-600 hover:text-blue-600">
-          Customer Servis
-        </a>
       </div>
       {/* Hamburger Menu Button for Medium and Smaller Screens */}
       <div className="md:hidden flex items-center">
@@ -27,7 +24,7 @@ const Navbar = () => {
       {/* Button */}
       <button
         className="hidden md:block px-4 py-2 text-white bg-blue-600 rounded hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2"
-        onClick={() => navigate("/Laporan")}
+        onClick={() => navigate("/newlaporan")}
       >
         Laporkan Masalah Anda
       </button>
@@ -39,7 +36,7 @@ const Navbar = () => {
           </a>
           <button
             className="w-full px-4 py-2 text-white bg-blue-600 rounded hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2"
-            onClick={() => navigate("/Laporan")}
+            onClick={() => navigate("/newlaporan")}
           >
             Laporkan Masalah Anda
           </button>

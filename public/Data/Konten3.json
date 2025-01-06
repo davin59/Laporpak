@@ -1,62 +1,45 @@
 [
-  {
+    {
       "id": 1,
-      "name": "Makassar",
-      "news": "Makassar akan mengadakan festival kuliner tradisional Sulawesi Selatan minggu depan.",
-      "pict": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSfVfNoLYRm4aJIceyZVx0MSNrubkwU4QXpg&s"
-  },
-  {
+      "name": "Jakarta",
+      "news": "lorem",
+      "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/640px-Jakarta_Skyline_Part_2.jpg"
+    },
+    {
       "id": 2,
-      "name": "Denpasar",
-      "news": "Denpasar menjadi tujuan utama wisatawan asing selama liburan akhir tahun.",
-      "pict": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSfVfNoLYRm4aJIceyZVx0MSNrubkwU4QXpg&s"
-  },
-  {
+      "name": "Surabaya",
+      "news": "lorem",
+      "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/640px-Jakarta_Skyline_Part_2.jpg"
+    },
+    {
       "id": 3,
-      "name": "Palembang",
-      "news": "Jembatan Ampera di Palembang akan direnovasi untuk memperkuat struktur bangunan.",
-      "pict": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSfVfNoLYRm4aJIceyZVx0MSNrubkwU4QXpg&s"
-  },
-  {
+      "name": "Bandung",
+      "news": "lorem",
+      "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/640px-Jakarta_Skyline_Part_2.jpg"
+    },
+    {
       "id": 4,
-      "name": "Mataram",
-      "news": "Mataram menjadi pusat pameran kerajinan lokal di Nusa Tenggara Barat.",
-      "pict": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSfVfNoLYRm4aJIceyZVx0MSNrubkwU4QXpg&s"
-  },
-  {
+      "name": "Bandung",
+      "news": "lorem",
+      "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/640px-Jakarta_Skyline_Part_2.jpg"
+    },
+    {
       "id": 5,
-      "name": "Ternate",
-      "news": "Gunung Gamalama di Ternate menunjukkan peningkatan aktivitas vulkanik.",
-      "pict": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSfVfNoLYRm4aJIceyZVx0MSNrubkwU4QXpg&s"
-  },
-  {
+      "name": "Bandung",
+      "news": "lorem",
+      "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/640px-Jakarta_Skyline_Part_2.jpg"
+    },
+    {
       "id": 6,
-      "name": "Banda Aceh",
-      "news": "Banda Aceh memperingati 20 tahun tsunami dengan acara doa bersama.",
-      "pict": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSfVfNoLYRm4aJIceyZVx0MSNrubkwU4QXpg&s"
-  },
-  {
+      "name": "Bandung",
+      "news": "lorem",
+      "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/640px-Jakarta_Skyline_Part_2.jpg"
+    },
+    {
       "id": 7,
-      "name": "Ambon",
-      "news": "Festival musik tahunan di Ambon kembali digelar setelah pandemi.",
-      "pict": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSfVfNoLYRm4aJIceyZVx0MSNrubkwU4QXpg&s"
-  },
-  {
-      "id": 8,
-      "name": "Jambi",
-      "news": "Pemerintah Jambi menanam 10.000 pohon di sepanjang sungai Batanghari.",
-      "pict": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSfVfNoLYRm4aJIceyZVx0MSNrubkwU4QXpg&s"
-  },
-  {
-      "id": 9,
-      "name": "Gorontalo",
-      "news": "Gorontalo meresmikan taman laut baru sebagai destinasi wisata bawah laut.",
-      "pict": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSfVfNoLYRm4aJIceyZVx0MSNrubkwU4QXpg&s"
-  },
-  {
-      "id": 10,
-      "name": "Samarinda",
-      "news": "Samarinda meningkatkan pengawasan di kawasan tambang ilegal.",
-      "pict": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSfVfNoLYRm4aJIceyZVx0MSNrubkwU4QXpg&s"
-  }
-]
+      "name": "Bandung",
+      "news": "lorem",
+      "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/640px-Jakarta_Skyline_Part_2.jpg"
+    }
+  ]
+  

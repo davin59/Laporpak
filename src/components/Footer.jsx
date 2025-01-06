@@ -1,9 +1,9 @@
 // Footer.js
 import React from 'react';
 
-const Footer = () => {
+const Footer = ({ className}) => {
   return (
-    <footer className="bg-white-500 text-black py-8">
+    <footer className={`bg-white-500 text-black py-8 ${className}`}>
       <div className="max-w-screen-xl mx-auto px-4 sm:px-6">
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
           {/* Column 1: Contact Information */}
@@ -28,20 +28,20 @@ const Footer = () => {
           </div>
 
           {/* Column 3: Social Media */}
-          <div className="flex flex-col">
+          <div>
             <h3 className="text-lg font-semibold mb-4">Follow Us</h3>
-            <div className="flex flex-col space-y-2">
-              <a href="#" className="hover:text-blue-600 flex items-center">
-                <i className="fab fa-facebook-f mr-2"></i> Facebook
+            <div className="flex space-x-4">
+              <a href="#" className="hover:text-blue-600">
+                <i className="fab fa-facebook-f"></i> {/* You can use icons from FontAwesome */}
               </a>
-              <a href="#" className="hover:text-blue-600 flex items-center">
-                <i className="fab fa-twitter mr-2"></i> Twitter
+              <a href="#" className="hover:text-blue-600">
+                <i className="fab fa-twitter"></i>
               </a>
-              <a href="#" className="hover:text-blue-600 flex items-center">
-                <i className="fab fa-instagram mr-2"></i> Instagram
+              <a href="#" className="hover:text-blue-600">
+                <i className="fab fa-instagram"></i>
               </a>
-              <a href="#" className="hover:text-blue-600 flex items-center">
-                <i className="fab fa-linkedin-in mr-2"></i> Linkedin
+              <a href="#" className="hover:text-blue-600">
+                <i className="fab fa-linkedin-in"></i>
               </a>
             </div>
           </div>
@@ -53,7 +53,7 @@ const Footer = () => {
               <input
                 type="email"
                 placeholder="Your email address"
-                className="w-full p-2 mb-4 border border-gray-600 bg-white-700 text-black rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
+                className="w-full p-2 mb-4 border border-gray-600 bg-white-700 text-white rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
               />
               <button
                 type="submit"

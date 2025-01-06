@@ -1,0 +1,125 @@
+{
+    "Aceh": {
+        "Banda Aceh": [-5.5485, 95.3195],
+        "Lhokseumawe": [-4.1981, 97.1495]
+    },
+    "Sumatera Utara": {
+        "Medan": [3.5952, 98.6722],
+        "Pematang Siantar": [2.9615, 99.0592]
+    },
+    "Sumatera Barat": {
+        "Padang": [-0.9471, 100.4174],
+        "Bukittinggi": [-0.3032, 100.3582]
+    },
+    "Riau": {
+        "Pekanbaru": [0.5134, 101.4473],
+        "Dumai": [1.6358, 101.5011]
+    },
+    "Kepulauan Riau": {
+        "Tanjung Pinang": [0.9142, 104.4468],
+        "Batam": [1.1214, 104.0305]
+    },
+    "Jambi": {
+        "Jambi": [-1.6071, 103.6143],
+        "Muara Bungo": [-1.7861, 102.0025]
+    },
+    "Bengkulu": {
+        "Bengkulu": [-3.8015, 102.2657],
+        "Curup": [-3.4989, 102.0405]
+    },
+    "Lampung": {
+        "Bandar Lampung": [-5.4289, 105.2580],
+        "Metro": [-5.1222, 105.3393]
+    },
+    "DKI Jakarta": {
+        "Jakarta": [-6.2088, 106.8456]
+    },
+    "Jawa Barat": {
+        "Bandung": [-6.9175, 107.6191],
+        "Bogor": [-6.5942, 106.7892]
+    },
+    "Jawa Tengah": {
+        "Semarang": [-6.9667, 110.4167],
+        "Surakarta": [-7.5660, 110.8200]
+    },
+    "DI Yogyakarta": {
+        "Gondomanan": [-7.8024, 110.3671],
+        "Kotagede": [-7.8264, 110.4],
+        "Umbulharjo": [-7.8242, 110.3781]
+    },
+    "Jawa Timur": {
+        "Surabaya": [-7.2504, 112.7688],
+        "Malang": [-8.1121, 112.0377]
+    },
+    "Bali": {
+        "Denpasar": [-8.4095, 115.1889],
+        "Singaraja": [-8.1121, 115.0853]
+    },
+    "Nusa Tenggara Barat": {
+        "Mataram": [-8.5833, 116.1167],
+        "Bima": [-8.4549, 118.7422]
+    },
+    "Nusa Tenggara Timur": {
+        "Kupang": [-10.1601, 123.5857],
+        "Maumere": [-8.6063, 122.2126]
+    },
+    "Kalimantan Barat": {
+        "Pontianak": [0.0176, 109.3426],
+        "Singkawang": [1.0522, 109.5365]
+    },
+    "Kalimantan Tengah": {
+        "Palangka Raya": [-2.2110, 113.9213],
+        "Sampit": [-2.5404, 112.9502]
+    },
+    "Kalimantan Selatan": {
+        "Banjarmasin": [-3.3192, 114.5932],
+        "Banjarbaru": [-3.4667, 114.8033]
+    },
+    "Kalimantan Timur": {
+        "Samarinda": [-0.5025, 117.1441],
+        "Balikpapan": [-1.2675, 116.8970]
+    },
+    "Kalimantan Utara": {
+        "Tanjung Selor": [3.2781, 117.4920],
+        "Tarakan": [3.3328, 117.5225]
+    },
+    "Sulawesi Utara": {
+        "Manado": [1.4958, 124.8432],
+        "Bitung": [1.4477, 125.2044]
+    },
+    "Sulawesi Tengah": {
+        "Palu": [-0.8994, 119.8717],
+        "Donggala": [-0.5083, 119.8770]
+    },
+    "Sulawesi Selatan": {
+        "Makassar": [-5.1475, 119.4323],
+        "Parepare": [-4.0214, 119.6211]
+    },
+    "Sulawesi Tenggara": {
+        "Kendari": [-3.9502, 122.5225],
+        "Baubau": [-5.4522, 122.6247]
+    },
+    "Gorontalo": {
+        "Gorontalo": [0.5416, 123.0662],
+        "Dumoga": [0.3777, 123.5137]
+    },
+    "Sulawesi Barat": {
+        "Mamuju": [-2.6472, 118.9511],
+        "Polewali": [-3.0224, 118.7105]
+    },
+    "Maluku": {
+        "Ambon": [-3.6950, 128.1883],
+        "Ternate": [0.7997, 127.3650]
+    },
+    "Maluku Utara": {
+        "Sofifi": [0.9946, 127.9615]
+    },
+    "Papua": {
+        "Jayapura": [-2.5333, 140.7167],
+        "Merauke": [-8.4916, 140.3908]
+    },
+    "Papua Barat": {
+        "Manokwari": [-0.8750, 134.0658],
+        "Sorong": [-0.8790, 131.2610]
+    }
+}

@@ -1,6 +1,6 @@
 import React from 'react'
-import Navbar from '../components/Home/Navbar'
-import Mainkonten from '../components/Home/Mainkonten'
+import Navbar from '../pages/Home/Navbar'
+import Mainkonten from '../pages/Home/Mainkonten'
 import Footer from '../components/Footer'
 
 
@@ -8,7 +8,7 @@ const Home = () => {
   return (
     <>
     <Navbar/>
-    <Mainkonten/>
+      <Mainkonten/>
     <Footer/>
     </>
   )
