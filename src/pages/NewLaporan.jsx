@@ -4,8 +4,6 @@ import Maps from "../components/Laporan/Maps";
 import ModalAdd from "../components/Laporan/ModalAdd";
 import CardLaporan from "../components/Laporan/CardLaporan";
 
-
-
 export default function NewLaporan() {
   const [wilayah, setWilayah] = useState("");
   const [kecamatan, setKecamatan] = useState("");
@@ -18,26 +16,23 @@ export default function NewLaporan() {
 
   return (
     <>
-    
-    <div className="flex flex-col">
-      <NewNavbar
-        wilayah={wilayah}
-        setWilayah={setWilayah}
-        kecamatan={kecamatan}
-        setKecamatan={setKecamatan}
-        onSearch={onSearch}
-        setUpdateMap={setUpdateMap}
-      />
-      <Maps
-        wilayah={wilayah}
-        kecamatan={kecamatan}
-        updateMap={updateMap} // Pass updateMap state to Maps component
-      />
-      <ModalAdd/>
-    </div>
-      <CardLaporan/>
-      
-      </>
-
+      <div className="flex flex-col">
+        <NewNavbar
+          wilayah={wilayah}
+          setWilayah={setWilayah}
+          kecamatan={kecamatan}
+          setKecamatan={setKecamatan}
+          onSearch={onSearch}
+          setUpdateMap={setUpdateMap}
+        />
+        <Maps
+          wilayah={wilayah}
+          kecamatan={kecamatan}
+          updateMap={updateMap} // Pass updateMap state to Maps component
+        />
+        <ModalAdd />
+      </div>
+      <CardLaporan />
+    </>
   );
 }

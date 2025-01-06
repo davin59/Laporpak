@@ -1,45 +1,62 @@
 [
-    {
-      "id": 1,
-      "name": "Batam",
-      "news": "lorem",
-      "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/640px-Jakarta_Skyline_Part_2.jpg"
-    },
-    {
-      "id": 2,
-      "name": "Surabaya",
-      "news": "lorem",
-      "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/640px-Jakarta_Skyline_Part_2.jpg"
-    },
-    {
-      "id": 3,
-      "name": "Bandung",
-      "news": "lorem",
-      "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/640px-Jakarta_Skyline_Part_2.jpg"
-    },
-    {
-      "id": 4,
-      "name": "Bandung",
-      "news": "lorem",
-      "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/640px-Jakarta_Skyline_Part_2.jpg"
-    },
-    {
-      "id": 5,
-      "name": "Bandung",
-      "news": "lorem",
-      "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/640px-Jakarta_Skyline_Part_2.jpg"
-    },
-    {
-      "id": 6,
-      "name": "Bandung",
-      "news": "lorem",
-      "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/640px-Jakarta_Skyline_Part_2.jpg"
-    },
-    {
-      "id": 7,
-      "name": "Bandung",
-      "news": "lorem",
-      "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/640px-Jakarta_Skyline_Part_2.jpg"
-    }
-  ]
-  
+  {
+    "id": 1,
+    "name": "Tangerang",
+    "news": "Pemerintah Kota Tangerang meluncurkan aplikasi smart city untuk mempermudah layanan masyarakat.",
+    "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/1200px-Jakarta_Skyline_Part_2.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Bekasi",
+    "news": "Kota Bekasi mengadakan kompetisi e-sports tingkat nasional yang diikuti oleh ratusan peserta.",
+    "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/1200px-Jakarta_Skyline_Part_2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Cirebon",
+    "news": "Cirebon mengadakan festival keraton untuk memperkenalkan budaya lokal kepada generasi muda.",
+    "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/1200px-Jakarta_Skyline_Part_2.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Samarinda",
+    "news": "Samarinda memulai proyek pengembangan jembatan baru untuk mempercepat akses antarwilayah.",
+    "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/1200px-Jakarta_Skyline_Part_2.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Palu",
+    "news": "Kota Palu berhasil menyelesaikan proyek rehabilitasi pasca-bencana dengan dukungan pemerintah pusat.",
+    "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/1200px-Jakarta_Skyline_Part_2.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Mataram",
+    "news": "Mataram akan menjadi tuan rumah lomba perahu tradisional dalam rangka festival tahunan.",
+    "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/1200px-Jakarta_Skyline_Part_2.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Kendari",
+    "news": "Pemerintah Kendari memperkenalkan kebijakan ramah lingkungan untuk menjaga kelestarian pantai.",
+    "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/1200px-Jakarta_Skyline_Part_2.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Batam",
+    "news": "Kota Batam mencatat pertumbuhan ekonomi tertinggi di sektor pariwisata dan perdagangan.",
+    "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/1200px-Jakarta_Skyline_Part_2.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Bengkulu",
+    "news": "Bengkulu memperingati Hari Jadi Kota dengan serangkaian acara budaya dan pameran seni.",
+    "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/1200px-Jakarta_Skyline_Part_2.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Ternate",
+    "news": "Kota Ternate mempromosikan wisata sejarah dengan memperkenalkan benteng-benteng peninggalan kolonial.",
+    "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/1200px-Jakarta_Skyline_Part_2.jpg"
+  }
+]

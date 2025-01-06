@@ -110,10 +110,10 @@ export default function CardLaporan() {
             />
           )}
           <p className="font-bold">{report.nama}</p>
-          <p>Email: {report.email}</p>
-          <p>Wilayah: {report.wilayah}</p>
-          <p>Kecamatan: {report.kecamatan}</p>
-          <q>Deskripsi: {report.deskripsi}</q>
+          <p className="font-bold">Email: {report.email}</p>
+          <p className="font-bold">Wilayah: {report.wilayah}</p>
+          <p className="font-bold">Kecamatan: {report.kecamatan}</p>
+          <q>{report.deskripsi}</q>
           <div className="flex flex-col gap-2">
             <button
               onClick={() => handleEdit(index)}

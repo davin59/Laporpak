@@ -1,45 +1,62 @@
 [
-    {
-      "id": 1,
-      "name": "Jakarta",
-      "news": "lorem",
-      "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/640px-Jakarta_Skyline_Part_2.jpg"
-    },
-    {
-      "id": 2,
-      "name": "Surabaya",
-      "news": "lorem",
-      "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/640px-Jakarta_Skyline_Part_2.jpg"
-    },
-    {
-      "id": 3,
-      "name": "Bandung",
-      "news": "lorem",
-      "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/640px-Jakarta_Skyline_Part_2.jpg"
-    },
-    {
-      "id": 4,
-      "name": "Bandung",
-      "news": "lorem",
-      "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/640px-Jakarta_Skyline_Part_2.jpg"
-    },
-    {
-      "id": 5,
-      "name": "Bandung",
-      "news": "lorem",
-      "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/640px-Jakarta_Skyline_Part_2.jpg"
-    },
-    {
-      "id": 6,
-      "name": "Bandung",
-      "news": "lorem",
-      "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/640px-Jakarta_Skyline_Part_2.jpg"
-    },
-    {
-      "id": 7,
-      "name": "Bandung",
-      "news": "lorem",
-      "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/640px-Jakarta_Skyline_Part_2.jpg"
-    }
-  ]
-  
+  {
+    "id": 1,
+    "name": "Jakarta",
+    "news": "Pemerintah DKI Jakarta meresmikan proyek MRT fase 2 untuk mengurangi kemacetan di pusat kota.",
+    "pict": "https://asset-2.tstatic.net/batam/foto/bank/images/batamnyaaaa-mana.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Surabaya",
+    "news": "Pemkot Surabaya menggelar festival kuliner tradisional yang diikuti oleh puluhan UMKM.",
+    "pict": "https://asset-2.tstatic.net/batam/foto/bank/images/batamnyaaaa-mana.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Bandung",
+    "news": "Bandung berhasil meraih penghargaan kota kreatif dari UNESCO berkat inovasi di sektor pariwisata.",
+    "pict": "https://asset-2.tstatic.net/batam/foto/bank/images/batamnyaaaa-mana.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Yogyakarta",
+    "news": "Wisatawan memadati Malioboro saat libur panjang, pemerintah daerah imbau tetap patuhi protokol kesehatan.",
+    "pict": "https://asset-2.tstatic.net/batam/foto/bank/images/batamnyaaaa-mana.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Medan",
+    "news": "Pemkot Medan memulai program revitalisasi Lapangan Merdeka untuk mempercantik wajah kota.",
+    "pict": "https://asset-2.tstatic.net/batam/foto/bank/images/batamnyaaaa-mana.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Bali",
+    "news": "Gubernur Bali menyatakan pariwisata pulau dewata kembali pulih pasca pandemi.",
+    "pict": "https://asset-2.tstatic.net/batam/foto/bank/images/batamnyaaaa-mana.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Makassar",
+    "news": "Makassar menjadi tuan rumah konferensi nasional ekonomi maritim yang dihadiri oleh berbagai negara.",
+    "pict": "https://asset-2.tstatic.net/batam/foto/bank/images/batamnyaaaa-mana.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Semarang",
+    "news": "Pemkot Semarang meluncurkan bus listrik ramah lingkungan sebagai moda transportasi baru.",
+    "pict": "https://asset-2.tstatic.net/batam/foto/bank/images/batamnyaaaa-mana.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Palembang",
+    "news": "Palembang siap menggelar festival Sungai Musi untuk menarik lebih banyak wisatawan lokal dan mancanegara.",
+    "pict": "https://asset-2.tstatic.net/batam/foto/bank/images/batamnyaaaa-mana.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Balikpapan",
+    "news": "Balikpapan akan menjadi pusat logistik utama untuk proyek pembangunan Ibu Kota Negara (IKN) di Kalimantan.",
+    "pict": "https://asset-2.tstatic.net/batam/foto/bank/images/batamnyaaaa-mana.jpg"
+  }
+]

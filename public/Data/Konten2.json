@@ -1,44 +1,62 @@
 [
   {
     "id": 1,
-    "name": "Jakarta",
-    "news": "lorem",
-    "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/640px-Jakarta_Skyline_Part_2.jpg"
+    "name": "Malang",
+    "news": "Kota Malang menggelar acara Malang Flower Carnival yang menarik ribuan wisatawan lokal.",
+    "pict": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh4v7vIhuYB1eGY_6jnQLOmT9PiCktpoFlsg&s"
   },
   {
     "id": 2,
-    "name": "Surabaya",
-    "news": "lorem",
-    "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/640px-Jakarta_Skyline_Part_2.jpg"
+    "name": "Aceh",
+    "news": "Aceh resmi membuka kembali Masjid Raya Baiturrahman untuk kunjungan wisata religi.",
+    "pict": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh4v7vIhuYB1eGY_6jnQLOmT9PiCktpoFlsg&s"
   },
   {
     "id": 3,
-    "name": "Bandung",
-    "news": "lorem",
-    "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/640px-Jakarta_Skyline_Part_2.jpg"
+    "name": "Pontianak",
+    "news": "Pontianak akan menjadi tuan rumah festival budaya Cap Go Meh terbesar di Indonesia.",
+    "pict": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh4v7vIhuYB1eGY_6jnQLOmT9PiCktpoFlsg&s"
   },
   {
     "id": 4,
-    "name": "Bandung",
-    "news": "lorem",
-    "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/640px-Jakarta_Skyline_Part_2.jpg"
+    "name": "Pekanbaru",
+    "news": "Pemerintah Pekanbaru meluncurkan program penghijauan untuk mengurangi polusi udara.",
+    "pict": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh4v7vIhuYB1eGY_6jnQLOmT9PiCktpoFlsg&s"
   },
   {
     "id": 5,
-    "name": "Bandung",
-    "news": "lorem",
-    "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/640px-Jakarta_Skyline_Part_2.jpg"
+    "name": "Manado",
+    "news": "Manado siap menggelar Festival Bunaken yang akan dihadiri oleh penyelam dari seluruh dunia.",
+    "pict": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh4v7vIhuYB1eGY_6jnQLOmT9PiCktpoFlsg&s"
   },
   {
     "id": 6,
-    "name": "Bandung",
-    "news": "lorem",
-    "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/640px-Jakarta_Skyline_Part_2.jpg"
+    "name": "Padang",
+    "news": "Festival Rendang di Padang menarik perhatian kuliner internasional dengan varian rendang unik.",
+    "pict": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh4v7vIhuYB1eGY_6jnQLOmT9PiCktpoFlsg&s"
   },
   {
     "id": 7,
-    "name": "Bandung",
-    "news": "lorem",
-    "pict": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/640px-Jakarta_Skyline_Part_2.jpg"
+    "name": "Banjarmasin",
+    "news": "Banjarmasin memperkenalkan wisata pasar terapung sebagai ikon budaya daerah.",
+    "pict": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh4v7vIhuYB1eGY_6jnQLOmT9PiCktpoFlsg&s"
+  },
+  {
+    "id": 8,
+    "name": "Kupang",
+    "news": "Kupang memulai pembangunan pelabuhan baru untuk meningkatkan sektor perdagangan dan pariwisata.",
+    "pict": "https://asset-2.tstatic.net/batam/foto/bank/images/kupang.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Ambon",
+    "news": "Kota Ambon menggelar Festival Musik Internasional yang dihadiri oleh musisi dari berbagai negara.",
+    "pict": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh4v7vIhuYB1eGY_6jnQLOmT9PiCktpoFlsg&s"
+  },
+  {
+    "id": 10,
+    "name": "Jayapura",
+    "news": "Jayapura berhasil menyelenggarakan PON Papua dengan sukses, menarik banyak perhatian nasional.",
+    "pict": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh4v7vIhuYB1eGY_6jnQLOmT9PiCktpoFlsg&s"
   }
 ]

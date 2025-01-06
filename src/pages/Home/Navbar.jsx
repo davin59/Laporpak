@@ -8,7 +8,7 @@ const Navbar = () => {
   return (
     <nav className="flex items-center justify-between px-6 py-4 bg-gray-100 ">
       {/* Logo */}
-      <div className="text-3xl font-bold text-gray-800">Laporpak.</div>
+      <div className="text-3xl font-bold text-gray-800">LaporPak.</div>
       {/* Navigation Links for Large Screens */}
       <div className="hidden md:flex space-x-6">
       </div>
